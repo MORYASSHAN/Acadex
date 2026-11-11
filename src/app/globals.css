@@ -1,0 +1,279 @@
+@import "tailwindcss";
+
+@theme {
+  --color-canvas: #f7f7f6;
+  --color-ink: #111111;
+  --color-ink-2: #2a2a2a;
+  --color-muted: #6e6e6e;
+  --color-faint: #a3a3a3;
+  --color-line: #e6e6e4;
+  --color-tile: #ededec;
+  --color-night: #0f0f0f;
+  --color-night-2: #1a1a1a;
+  --color-brand: #4f46e5;
+  --color-brand-soft: #e9e8fd;
+
+  --font-sans: var(--font-inter-tight), ui-sans-serif, system-ui, sans-serif;
+  --font-display: var(--font-anton), "Arial Narrow", Impact, sans-serif;
+  --font-mono: var(--font-geist-mono), ui-monospace, SFMono-Regular, monospace;
+
+  --ease-out-quint: cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+html {
+  background: var(--color-canvas);
+  color: var(--color-ink);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: clip;
+}
+body {
+  font-family: var(--font-sans);
+  background: var(--color-canvas);
+  overflow-x: clip;
+  letter-spacing: -0.01em;
+}
+::selection {
+  background: var(--color-ink);
+  color: #fff;
+}
+:focus-visible {
+  outline: 2px solid var(--color-brand);
+  outline-offset: 3px;
+  border-radius: 8px;
+}
+
+/* lenis */
+html.lenis,
+html.lenis body {
+  height: auto;
+}
+.lenis.lenis-smooth {
+  scroll-behavior: auto !important;
+}
+.lenis.lenis-stopped {
+  overflow: hidden;
+}
+
+@layer components {
+  /* big, calm headlines */
+  .h-display {
+    font-weight: 400;
+    letter-spacing: -0.045em;
+    line-height: 0.98;
+  }
+  .h-section {
+    font-weight: 400;
+    letter-spacing: -0.04em;
+    line-height: 1.04;
+  }
+  /* small mono eyebrow labels */
+  .eyebrow {
+    font-family: var(--font-mono);
+    font-size: 13px;
+    letter-spacing: 0;
+    color: var(--color-faint);
+  }
+  .container-x {
+    width: 100%;
+    max-width: 1440px;
+    margin-inline: auto;
+    padding-inline: clamp(16px, 4.5vw, 66px);
+  }
+
+  /* condensed poster type for everything below the hero */
+  .display {
+    font-family: var(--font-display);
+    font-weight: 400;
+    text-transform: uppercase;
+    line-height: 0.93;
+    letter-spacing: -0.005em;
+  }
+  .kicker {
+    font-family: var(--font-mono);
+    font-size: 12px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+
+  /* colours that follow the section theme (see ThemeController) */
+  .stage {
+    background: var(--bg);
+    color: var(--fg);
+  }
+  .soft {
+    color: color-mix(in srgb, var(--fg) 66%, transparent);
+  }
+  .faintc {
+    color: color-mix(in srgb, var(--fg) 45%, transparent);
+  }
+  .card {
+    background: color-mix(in srgb, var(--fg) 7%, transparent);
+  }
+  .card-strong {
+    background: color-mix(in srgb, var(--fg) 12%, transparent);
+  }
+  .rule {
+    border-color: color-mix(in srgb, var(--fg) 20%, transparent);
+  }
+  .accent {
+    color: var(--ac);
+  }
+  .bg-accent {
+    background: var(--ac);
+    color: var(--bg);
+  }
+  .bg-fg {
+    background: var(--fg);
+    color: var(--bg);
+  }
+}
+
+/* starting palette for the stage, before JS takes over */
+:root {
+  --bg: #ebeae6;
+  --fg: #0e0e0e;
+  --ac: #4f46e5;
+}
+
+/* scroll reveal (only when JS is running, so content never hides without it) */
+.js [data-reveal] {
+  opacity: 0;
+  transform: translateY(28px);
+  transition:
+    opacity 1s var(--ease-out-quint),
+    transform 1.1s var(--ease-out-quint);
+}
+.js [data-reveal].is-in {
+  opacity: 1;
+  transform: none;
+}
+
+/* hero entrance */
+@keyframes hero-in {
+  from {
+    opacity: 0;
+    transform: translateY(22px);
+    filter: blur(6px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+    filter: blur(0);
+  }
+}
+.hero-in {
+  animation: hero-in 1.2s var(--ease-out-quint) both;
+}
+
+/* big type swapping in from below */
+@keyframes rise {
+  from {
+    opacity: 0;
+    transform: translateY(0.35em);
+    clip-path: inset(0 0 100% 0);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+    clip-path: inset(0 0 0 0);
+  }
+}
+
+/* ---------- live product UI (see components/product/live.tsx) ---------- */
+.lv-ring {
+  stroke-dashoffset: var(--off);
+}
+.live .lv-ring {
+  animation: lv-ring 1.6s var(--ease-out-quint) both;
+  animation-delay: var(--d, 0.2s);
+}
+@keyframes lv-ring {
+  from { stroke-dashoffset: var(--c); }
+}
+.live .lv-bar {
+  transform-origin: bottom;
+  animation: lv-grow 1.1s var(--ease-out-quint) both;
+  animation-delay: var(--d, 0s);
+}
+@keyframes lv-grow {
+  from { transform: scaleY(0.04); }
+}
+.live .lv-in {
+  animation: lv-in 0.7s var(--ease-out-quint) both;
+  animation-delay: var(--d, 0s);
+}
+@keyframes lv-in {
+  from { opacity: 0; transform: translateY(14px); }
+}
+.live .lv-new {
+  animation: lv-new 0.9s var(--ease-out-quint) both;
+  animation-delay: var(--d, 0s);
+}
+@keyframes lv-new {
+  from { opacity: 0; transform: translateY(-18px) scale(0.98); }
+}
+.live .lv-dot {
+  animation: lv-dot 0.35s var(--ease-out-quint) both;
+  animation-delay: var(--d, 0s);
+}
+@keyframes lv-dot {
+  from { opacity: 0; transform: scale(0.4); }
+}
+.lv-toast {
+  opacity: 0;
+}
+.live .lv-toast {
+  animation: lv-toast 0.8s var(--ease-out-quint) both;
+  animation-delay: var(--d, 1.6s);
+}
+@keyframes lv-toast {
+  from { opacity: 0; transform: translateY(16px) scale(0.96); }
+  to { opacity: 1; transform: none; }
+}
+.lv-drop {
+  opacity: 0;
+}
+.live .lv-drop {
+  animation: lv-drop 0.8s var(--ease-out-quint) both;
+  animation-delay: var(--d, 1.4s);
+}
+@keyframes lv-drop {
+  from { opacity: 0; transform: translateY(-24px) scale(0.96); }
+  to { opacity: 1; transform: none; }
+}
+.live .lv-tap {
+  animation: lv-tap 0.5s ease-in-out both;
+  animation-delay: var(--d, 1.4s);
+}
+@keyframes lv-tap {
+  40% { transform: scale(0.9); filter: brightness(1.3); }
+  100% { transform: none; }
+}
+.live .lv-pulse {
+  animation: pulse-soft 1.4s ease-in-out infinite;
+}
+
+@keyframes marquee {
+  to {
+    transform: translateX(-50%);
+  }
+}
+.marquee-track {
+  animation: marquee 40s linear infinite;
+}
+
+@keyframes pulse-soft {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.35; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}

@@ -1,0 +1,1145 @@
+
+
+=================== PAGE / ===================
+TITLE: Acadex — College Management System & ERP SaaS Platform
+META: Acadex is a modern, all-in-one college management system (CMS) and ERP SaaS. Manage student enrollment, timetables, exams, attendance, faculty, and subscriptions in one powerful platform built for Indian colleges and universities.
+
+AI-powered academic operations platform for colleges and universities
+Acadex is building a smarter way for colleges and universities to manage academic operations.
+
+We bring attendance, communication, scheduling, resources, and academic workflows into one unified digital platform for administrators, teachers, and students.
+
+Register Institution
+Login to Dashboard
+Unified digital platform
+Real-time attendance
+Institution-controlled data
+
+Partner colleges
+
+4
+
+Colleges using Acadex to standardize operations.
+
+Active subscriptions
+
+0
+
+Live plans powering production campus workflows.
+
+Countries served
+
+4
+
+Regional rollouts with shared platform governance.
+
+Client satisfaction
+
+90%
+
+Based on handled plan and support request outcomes.
+
+ACADEX ACADEMIC OPERATIONS
+
+Unified academic platform
+Live sync
+Attendance
+Timetable
+Resources
+Notices
+Assessments
+
+Attendance sync
+
+Real-time
+
+Updates delivered
+
+Instant
+
+Workflow state
+
+Unified
+
+Operational throughput
+
+Last 30 days
+
+Today's queue
+
+Attendance thresholds flagged
+
+Below required limits
+
+Announcements ready to publish
+
+Role-based delivery
+
+Syllabus progress updated
+
+Subject-wise visibility
+
+Announcements
+
+Instant role-based delivery
+
+Data control
+
+In-house
+
+TRUSTED BY
+
+Institutions building smarter academic operations with Acadex
+CALCUTTA UNIVERSITY
+STANFORD UNIVERSITY
+OXFORD UNIVERSITY
+IIT DELHI
+IIT BOMBAY
+IIT MADRAS
+IIT KGP
+CALCUTTA UNIVERSITY
+STANFORD UNIVERSITY
+OXFORD UNIVERSITY
+IIT DELHI
+IIT BOMBAY
+IIT MADRAS
+IIT KGP
+
+SOLUTIONS WE PROVIDE
+
+Structured academic workflows, delivered through one centralized platform.
+
+Acadex helps institutions move beyond manual processes, disconnected tools, and inefficient communication by bringing core academic workflows into one digital system.
+
+Attendance Policies & Analytics Dashboard
+Smart Attendance System
+Smart Resource Management
+Real-Time Notifications & Announcements
+Attendance Policies & Analytics Dashboard
+
+Configure attendance rules, monitor subject and class performance, and quickly identify students falling below required thresholds.
+
+ATTENDANCE ANALYTICS
+Smart Attendance System
+
+Track attendance in real time with online and offline support, faster marking tools for teachers, and clear subject-wise visibility for students.
+
+REAL-TIME TRACKING
+Smart Resource Management
+
+Organize class materials, documents, and institutional resources through a centralized platform with approvals, search, and structured categorization.
+
+RESOURCE CONTROL
+Real-Time Notifications & Announcements
+
+Deliver announcements, schedule changes, and important institutional updates instantly to the right students, teachers, and academic groups.
+
+COMMUNICATION
+Digital Timetable & Academic Calendar
+
+Create class schedules, manage temporary reschedules or cancellations, and maintain a structured academic calendar for semester-wide planning.
+
+ACADEMIC PLANNING
+Quiz & Assessment System
+
+Create quizzes with scheduling, timing, grading, analytics, result publishing, draft saving, and student response tracking.
+
+ASSESSMENT
+
+PROBLEMS UNIVERSITIES FACE
+
+Manual processes, fragmented tools, and low visibility make academic administration harder than it should be.
+
+These are the operational challenges Acadex is built to solve across attendance, communication, resources, and centralized academic data.
+
+01 Problems
+02 Attendance
+03 Coordination
+04 Governance
+Universities lose time when academic work depends on manual processes and fragmented tools
+
+A lot of documents, disconnected systems, and overloaded communication channels make academic administration inconvenient, slow, and difficult to manage.
+
+Manual processes slow down attendance, records, and day-to-day administration
+
+Communication gaps cause important updates to be overlooked by students, faculty, and administrators
+
+Academic data becomes harder to access and analyze when information stays fragmented
+
+01 Problems
+
+Problem-to-solution view
+
+Process state
+
+Manual
+
+Tooling
+
+Fragmented
+
+Visibility
+
+Low
+
+Operational challenge
+
+Ready
+2 items
+In review
+3 items
+Completed
+4 items
+
+Acadex response
+
+Metric 1
+72%
+Metric 2
+54%
+Metric 3
+88%
+Metric 4
+64%
+
+FEATURES
+
+Operational controls for secure, scalable academic management.
+
+From dynamic forms and academic structure management to audit visibility and AI assistance, the platform supports controlled institutional rollout.
+
+WHAT THIS ENABLES
+
+Centralized academic data and better visibility for administrators.
+
+Controlled permissions for admins, teachers, CRs, and students.
+
+In-house hosting keeps institutional data under institutional control.
+
+Dynamic Forms & Workflow Management
+
+Build reusable digital forms for semester registration, electives, feedback, and custom institutional workflows with targeting, validation, and analytics.
+
+SEMESTER REGISTRATION
+CUSTOM WORKFLOWS
+VALIDATION & ANALYTICS
+Institution Setup & Academic Structure Management
+
+Manage colleges, departments, sections, courses, subjects, classes, subject groups, students, teachers, and mentorship mappings from one academic backbone.
+
+DEPARTMENTS
+SUBJECTS & CLASSES
+MENTORSHIP MAPPING
+Bulk Import, Secure Login & Onboarding
+
+Speed up rollout with bulk student and teacher import, college-scoped authentication, and OTP-based verification or recovery flows.
+
+BULK IMPORT
+OTP RECOVERY
+COLLEGE-SCOPED AUTH
+Role & Permission Hierarchy
+
+Control who can access, create, approve, or manage each module through flexible role-based permissions for admins, teachers, CRs, and students.
+
+ADMIN CONTROLS
+TEACHER ACCESS
+STUDENT & CR ROLES
+Admin Dashboard, Audit & Recovery Tools
+
+Give administrators visibility through dashboards, audit logs, activity history, security monitoring, and recycle-bin style recovery for deleted data.
+
+DASHBOARDS
+AUDIT LOGS
+RECOVERY TOOLS
+AI-Powered Academic Assistant
+
+Provide AI support for academic queries, contextual information access, and prompt-driven task execution that would otherwise be done manually.
+
+ACADEMIC QUERIES
+CONTEXTUAL ACCESS
+PROMPT-DRIVEN TASKS
+
+WHY US
+
+Less manual work, better institutional control, and future-ready operations.
+
+Acadex is designed to centralize academic workflows, reduce repetitive administration, and keep institutional data secure under your control.
+
+AA
+
+All-in-One Academic Platform
+
+Unified operations
+
+Manage attendance, schedules, communication, resources, and workflows from one centralized academic platform.
+
+LM
+
+Less Manual Work, Faster Operations
+
+Operational efficiency
+
+Reduce paperwork, repetitive tasks, and fragmented processes across departments so academic teams move faster.
+
+BI
+
+Better Institutional Control
+
+Administrative visibility
+
+Give administrators better visibility into academic activities, records, and day-to-day institutional operations.
+
+RA
+
+Role-Based and Secure
+
+Controlled permissions
+
+Ensure the right access for the right people with controlled permissions and reliable data handling across roles.
+
+SA
+
+Scalable and Future-Ready
+
+Growth support
+
+Support growing institutional needs with digital workflows, structured rollout, and AI-enabled academic assistance.
+
+ID
+
+Institution-Controlled Data
+
+In-house hosting
+
+Keep institutional data under institutional control with support for in-house hosting rather than storing it with us.
+
+AA
+
+All-in-One Academic Platform
+
+Unified operations
+
+Manage attendance, schedules, communication, resources, and workflows from one centralized academic platform.
+
+LM
+
+Less Manual Work, Faster Operations
+
+Operational efficiency
+
+Reduce paperwork, repetitive tasks, and fragmented processes across departments so academic teams move faster.
+
+BI
+
+Better Institutional Control
+
+Administrative visibility
+
+Give administrators better visibility into academic activities, records, and day-to-day institutional operations.
+
+RA
+
+Role-Based and Secure
+
+Controlled permissions
+
+Ensure the right access for the right people with controlled permissions and reliable data handling across roles.
+
+SA
+
+Scalable and Future-Ready
+
+Growth support
+
+Support growing institutional needs with digital workflows, structured rollout, and AI-enabled academic assistance.
+
+ID
+
+Institution-Controlled Data
+
+In-house hosting
+
+Keep institutional data under institutional control with support for in-house hosting rather than storing it with us.
+
+PRICING & PLANS
+
+Choose the rollout model that fits your institution.
+
+Start with the plan that matches your institution today, then scale into custom workflows, permissions, deployment support, and AI-enabled operations.
+
+Monthly
+Annual
+SAVE 16%
+ENTERPRISE
+Up to 1500 users
+Basic
+
+This plan offers basic subscription.
+
+$590
+/yr
+
+Billed yearly with discounted pricing.
+
+Purchase Plan
+ENTERPRISE
+Up to 2500 users
+Premium
+
+This is Premium subscription.
+
+$990
+/yr
+
+Billed yearly with discounted pricing.
+
+Purchase Plan
+ENTERPRISE
+Enterprise
+
+For custom deployment, advanced approvals, and college groups.
+
+Custom
+
+Tailored rollout, governance, and commercial scope.
+
+Request Quote
+In-house hosting
+Dedicated success team
+Enterprise governance
+
+ENTERPRISE / REQUEST QUOTE
+
+Need institution-controlled deployment or custom academic workflows?
+
+We support in-house hosting, role-based permissions, structured rollout, and AI-enabled assistance for institutions with custom governance requirements.
+
+IN-HOUSE HOSTING
+CUSTOM WORKFLOWS
+SECURE PERMISSIONS
+AI-ENABLED ASSISTANCE
+Discuss Deployment
+Contact Us
+
+COLLEGE ONBOARDING
+
+Roll out with secure onboarding and academic structure setup.
+1
+
+Import students and teachers in bulk
+
+2
+
+Verify access with college-scoped login and OTP recovery
+
+3
+
+Configure departments, subjects, classes, and mentorship mappings
+
+Start Institution Setup
+Acadex
+
+Acadex brings core academic workflows into one unified digital platform, making academic management more structured, efficient, and transparent.
+
+In-house hosting available for institutional control
+AI-enabled assistance for academic operations
+PRODUCT
+Who We Are
+Problems
+Features
+Register Institution
+RESOURCES
+Support
+Privacy Policy
+Terms of Service
+Contact
+NEWSLETTER
+
+Monthly product notes, rollout guidance, and academic operations ideas for colleges and universities.
+
+Join update list
+LinkedIn
+X
+YouTube
+
+Copyright 2026 Acadex. AI-powered academic operations for colleges and universities.
+
+Structured workflows, secure data control, and future-ready campus operations.
+
+--- FORM FIELDS ---
+INPUT name=topic type=hidden placeholder="" label=""
+INPUT name=email type=email placeholder="you@college.edu" label=""
+
+--- TAB: 01 Problems ---
+Universities lose time when academic work depends on manual processes and fragmented tools
+
+A lot of documents, disconnected systems, and overloaded communication channels make academic administration inconvenient, slow, and difficult to manage.
+
+Manual processes slow down attendance, records, and day-to-day administration
+
+Communication gaps cause important updates to be overlooked by students, faculty, and administrators
+
+Academic data becomes harder to access and analyze when information stays fragmented
+
+01 Problems
+
+Problem-to-solution view
+
+Process state
+
+Manual
+
+Tooling
+
+Fragmented
+
+Visibility
+
+Low
+
+Operational challenge
+
+Ready
+2 items
+In review
+3 items
+Completed
+4 items
+
+Acadex response
+
+Metric 1
+72%
+Metric 2
+54%
+Metric 3
+88%
+Metric 4
+64%
+
+--- TAB: 02 Attendance ---
+Bring attendance, syllabus coverage, and assessment tracking into one structured workflow
+
+Acadex gives institutions real-time attendance, subject-wise visibility, syllabus planning, and assessment tools so academic progress is easier to monitor and act on.
+
+Attendance policies and analytics help identify students below required thresholds
+
+Teachers get faster marking tools while students see subject-wise attendance clearly
+
+Syllabus planning and quiz workflows keep academic progress visible and structured
+
+02 Attendance
+
+Problem-to-solution view
+
+Attendance
+
+Real-time
+
+Coverage
+
+Subject-wise
+
+Assessments
+
+Scheduled
+
+Operational challenge
+
+Ready
+2 items
+In review
+3 items
+Completed
+4 items
+
+Acadex response
+
+Metric 1
+72%
+Metric 2
+54%
+Metric 3
+88%
+Metric 4
+64%
+
+--- TAB: 03 Coordination ---
+Coordinate resources, announcements, events, timetables, and conversations from one campus platform
+
+The platform centralizes academic resources, real-time notifications, event workflows, digital timetables, and group communication so institutional coordination becomes faster and clearer.
+
+Manage documents, approvals, and institutional resources through one structured system
+
+Send announcements and schedule changes instantly to the right academic groups
+
+Run events, academic calendars, and group chats with controlled participation and live updates
+
+03 Coordination
+
+Problem-to-solution view
+
+Resources
+
+Centralized
+
+Updates
+
+Instant
+
+Calendar
+
+Semester-wide
+
+Operational challenge
+
+Ready
+2 items
+In review
+3 items
+Completed
+4 items
+
+Acadex response
+
+Metric 1
+72%
+Metric 2
+54%
+Metric 3
+88%
+Metric 4
+64%
+
+--- TAB: 04 Governance ---
+Support secure institutional rollout with workflows, permissions, audit tools, and AI-enabled assistance
+
+Acadex supports academic operations with dynamic forms, role-based access, secure onboarding, audit visibility, recovery tools, and AI-powered assistance for faster execution.
+
+Create reusable digital forms and approval workflows for academic operations
+
+Control access through flexible permissions for admins, teachers, CRs, and students
+
+Use dashboards, audit logs, recovery tools, and AI assistance to reduce manual work
+
+04 Governance
+
+Problem-to-solution view
+
+Access
+
+Role-based
+
+Audit
+
+Tracked
+
+AI support
+
+Enabled
+
+Operational challenge
+
+Ready
+2 items
+In review
+3 items
+Completed
+4 items
+
+Acadex response
+
+Metric 1
+72%
+Metric 2
+54%
+Metric 3
+88%
+Metric 4
+64%
+
+--- PRICING (after clicking Monthly) ---
+PRICING & PLANS
+
+Choose the rollout model that fits your institution.
+
+Start with the plan that matches your institution today, then scale into custom workflows, permissions, deployment support, and AI-enabled operations.
+
+Monthly
+Annual
+SAVE 16%
+ENTERPRISE
+Up to 1500 users
+Basic
+
+This plan offers basic subscription.
+
+$590
+/yr
+
+Billed yearly with discounted pricing.
+
+Purchase Plan
+ENTERPRISE
+Up to 2500 users
+Premium
+
+This is Premium subscription.
+
+$990
+/yr
+
+Billed yearly with discounted pricing.
+
+Purchase Plan
+ENTERPRISE
+Enterprise
+
+For custom deployment, advanced approvals, and college groups.
+
+Custom
+
+Tailored rollout, governance, and commercial scope.
+
+Request Quote
+In-house hosting
+Dedicated success team
+Enterprise governance
+
+ENTERPRISE / REQUEST QUOTE
+
+Need institution-controlled deployment or custom academic workflows?
+
+We support in-house hosting, role-based permissions, structured rollout, and AI-enabled assistance for institutions with custom governance requirements.
+
+IN-HOUSE HOSTING
+CUSTOM WORKFLOWS
+SECURE PERMISSIONS
+AI-ENABLED ASSISTANCE
+Discuss Deployment
+Contact Us
+
+COLLEGE ONBOARDING
+
+Roll out with secure onboarding and academic structure setup.
+1
+
+Import students and teachers in bulk
+
+2
+
+Verify access with college-scoped login and OTP recovery
+
+3
+
+Configure departments, subjects, classes, and mentorship mappings
+
+Start Institution Setup
+
+=================== PAGE /plans ===================
+TITLE: Pricing Plans — College Management System Subscription | Acadex | Acadex
+META: Choose the right Acadex plan for your college or university. Flexible pricing for Basic, Professional, and Enterprise tiers. Includes student management, timetable, exams, attendance, and more. Start with a 14-day free trial.
+
+Back to Home
+Choose Your Plan
+
+Select the perfect plan for your institution. All plans include automated enrollment.
+
+BASIC
+Up to 1500 users
+Basic
+
+This plan offers basic subscription.
+
+$59
+/Monthly
+Get Started
+PREMIUM
+Up to 2500 users
+Premium
+
+This is Premium subscription.
+
+$99
+/Monthly
+Get Started
+Compare Plans
+
+See what's included in each plan at a glance.
+
+Features	Basic	Professional	Enterprise
+Institutional Users	Up to 500	Up to 2,500	Unlimited
+Course Management	
+	
+	
+
+Attendance Tracking	
+	
+	
+
+Grade Book	
+	
+	
+
+Parent Portal	—	
+	
+
+Analytics Dashboard	Basic	Advanced	Custom
+API Access	—	
+	
+
+SSO Integration	—	
+	
+
+Custom Branding	—	—	
+
+Priority Support	—	Email	24/7 Phone
+Frequently Asked Questions
+
+Everything you need to know about our plans and pricing.
+
+Can I switch plans later?
+
+Yes, you can upgrade or downgrade your plan at any time. Changes take effect immediately, and we'll prorate any differences.
+
+Is there a free trial?
+
+Yes! All plans come with a 14-day free trial. No credit card required to start.
+
+What payment methods do you accept?
+
+We accept all major credit cards, PayPal, and bank transfers for annual plans.
+
+Still have questions?
+
+Our team is here to help you find the perfect plan for your institution.
+
+Contact Sales
+Schedule Demo
+
+--- PLANS (FAQ expanded) ---
+Back to Home
+Choose Your Plan
+
+Select the perfect plan for your institution. All plans include automated enrollment.
+
+BASIC
+Up to 1500 users
+Basic
+
+This plan offers basic subscription.
+
+$59
+/Monthly
+Get Started
+PREMIUM
+Up to 2500 users
+Premium
+
+This is Premium subscription.
+
+$99
+/Monthly
+Get Started
+Compare Plans
+
+See what's included in each plan at a glance.
+
+Features	Basic	Professional	Enterprise
+Institutional Users	Up to 500	Up to 2,500	Unlimited
+Course Management	
+	
+	
+
+Attendance Tracking	
+	
+	
+
+Grade Book	
+	
+	
+
+Parent Portal	—	
+	
+
+Analytics Dashboard	Basic	Advanced	Custom
+API Access	—	
+	
+
+SSO Integration	—	
+	
+
+Custom Branding	—	—	
+
+Priority Support	—	Email	24/7 Phone
+Frequently Asked Questions
+
+Everything you need to know about our plans and pricing.
+
+Can I switch plans later?
+
+Yes, you can upgrade or downgrade your plan at any time. Changes take effect immediately, and we'll prorate any differences.
+
+Is there a free trial?
+
+Yes! All plans come with a 14-day free trial. No credit card required to start.
+
+What payment methods do you accept?
+
+We accept all major credit cards, PayPal, and bank transfers for annual plans.
+
+Still have questions?
+
+Our team is here to help you find the perfect plan for your institution.
+
+Contact Sales
+Schedule Demo
+
+--- COMPARISON TABLE ---
+Features | Basic | Professional | Enterprise
+Institutional Users | Up to 500 | Up to 2,500 | Unlimited
+Course Management | ✓ | ✓ | ✓
+Attendance Tracking | ✓ | ✓ | ✓
+Grade Book | ✓ | ✓ | ✓
+Parent Portal | — | ✓ | ✓
+Analytics Dashboard | Basic | Advanced | Custom
+API Access | — | ✓ | ✓
+SSO Integration | — | ✓ | ✓
+Custom Branding | — | — | ✓
+Priority Support | — | Email | 24/7 Phone
+
+=================== PAGE /contact ===================
+TITLE: Contact Us — Get in Touch with Acadex Support | Acadex
+META: Have questions about Acadex, your college management subscription, or need hands-on support? Contact the Acadex team and we'll get back to you quickly.
+
+GET IN TOUCH
+Contact Our Team
+
+Have questions about platform integration? Our administration team is ready to help your institution succeed.
+
+Direct Support Channels
+
+For immediate assistance with plan upgrades, role management, or technical issues, please use our primary contact channels below.
+
+Kaccha Aam, Pakka Mango
+
+Primary contact for all platform-related inquiries.
+
+support@mangosubscription.com
+
+Monitored by: Support Team
+
+Support Hours
+
+Monday - Friday
+
+9:00 AM - 6:00 PM (IST) (Busy)
+
+Priority Support Included
+All Enterprise plans include a dedicated account manager.
+Pro plans receive guaranteed 24-hour response times.
+Basic plans receive standard email support.
+Send a Message
+Full Name
+Work Email
+Institution Name
+Subject
+Message
+Send Message
+
+By submitting this form, you agree to our privacy policy and terms of service.
+
+--- FORM FIELDS ---
+INPUT name=name type=text placeholder="John Doe" label="Full Name"
+INPUT name=email type=email placeholder="john@institute.edu" label="Work Email"
+INPUT name=instituteName type=text placeholder="University of Technology" label="Institution Name"
+INPUT name=subject type=text placeholder="Plan Upgrade Inquiry" label="Subject"
+TEXTAREA name=message type=textarea placeholder="How can we help you today?" label="Message"
+
+=================== PAGE /docs ===================
+TITLE: Documentation & FAQ — College Management Platform Guide | Acadex | Acadex
+META: Explore the Acadex documentation and frequently asked questions. Learn how to set up your college, manage student enrollment, configure timetables, and operate your campus with our college management system.
+
+Platform Documentation
+
+Everything you need to know about setting up and operating your college on Acadex.
+
+Easy Setup
+
+Connect your college and begin configuring your academic operations in minutes with our intuitive dashboard.
+
+Fast Operations
+
+Experience lightning-fast user management, bulk enrollments, and performance tracking without lag.
+
+Enterprise Security
+
+Sleep easy knowing your students' data is protected by best-in-class security standards and automatic backups.
+
+About the Platform
+
+Acadex was built to solve the complex administrative overhead faced by modern colleges. By consolidating enrollment, subscription management, and role-based access into a unified ecosystem, we allow educators to focus on what matters most: educating.
+
+Whether you are a standalone college or part of a larger university system, our scalable infrastructure adapts to your specific requirements. The platform provides focused access for administrators, faculty, students, and system owners to ensure complete separation of concerns and operational efficiency.
+
+SUPPORT
+Frequently Asked Questions
+What is Acadex?
+Acadex is a comprehensive platform designed for colleges to easily manage subscriptions, students, and courses in a streamlined environment.
+How do I subscribe my college?
+You can visit the Plans section, choose the tier that fits your college size and requirements, and submit a plan request. Our administration team will review and approve your request shortly.
+Can I manage different roles like teachers and students?
+Yes, our platform provides robust role-based access control out of the box. Administrators can invite teachers and students, configure permissions, and monitor activity across the college.
+Do you offer customer support for new colleges?
+Absolutely! We provide dedicated support channels for all registered colleges. Higher tier plans also include priority support with dedicated account managers.
+Is the platform secure and compliant?
+Security is our top priority. We employ industry-standard encryption, regular security audits, and comply with standard educational data privacy regulations to ensure your college's data remains safe.
+
+--- DOCS (FAQ expanded) ---
+Platform Documentation
+
+Everything you need to know about setting up and operating your college on Acadex.
+
+Easy Setup
+
+Connect your college and begin configuring your academic operations in minutes with our intuitive dashboard.
+
+Fast Operations
+
+Experience lightning-fast user management, bulk enrollments, and performance tracking without lag.
+
+Enterprise Security
+
+Sleep easy knowing your students' data is protected by best-in-class security standards and automatic backups.
+
+About the Platform
+
+Acadex was built to solve the complex administrative overhead faced by modern colleges. By consolidating enrollment, subscription management, and role-based access into a unified ecosystem, we allow educators to focus on what matters most: educating.
+
+Whether you are a standalone college or part of a larger university system, our scalable infrastructure adapts to your specific requirements. The platform provides focused access for administrators, faculty, students, and system owners to ensure complete separation of concerns and operational efficiency.
+
+SUPPORT
+Frequently Asked Questions
+What is Acadex?
+Acadex is a comprehensive platform designed for colleges to easily manage subscriptions, students, and courses in a streamlined environment.
+How do I subscribe my college?
+You can visit the Plans section, choose the tier that fits your college size and requirements, and submit a plan request. Our administration team will review and approve your request shortly.
+Can I manage different roles like teachers and students?
+Yes, our platform provides robust role-based access control out of the box. Administrators can invite teachers and students, configure permissions, and monitor activity across the college.
+Do you offer customer support for new colleges?
+Absolutely! We provide dedicated support channels for all registered colleges. Higher tier plans also include priority support with dedicated account managers.
+Is the platform secure and compliant?
+Security is our top priority. We employ industry-standard encryption, regular security audits, and comply with standard educational data privacy regulations to ensure your college's data remains safe.
+
+=================== PAGE /privacy ===================
+TITLE: Privacy Policy — How Acadex Handles Your Data | Acadex
+META: Read the Acadex Privacy Policy. Learn how we collect, use, and protect data for colleges and universities using our college management system and ERP platform.
+
+Back to Home
+
+LEGAL
+
+Privacy Policy
+
+This page explains the general privacy posture for Acadex. It is intended to help institutes understand how platform data is handled across onboarding, operations, billing, and support.
+
+What we collect
+
+We collect institute account details, administrator profile information, operational platform data, billing records, and support interactions required to provide the Acadex service.
+
+How we use data
+
+Your information is used to operate the workspace, authenticate users, provision plans, improve reliability, and support your institute through onboarding and product operations.
+
+Data protection
+
+Access is controlled through role-based permissions, monitored systems, and reasonable technical and organizational safeguards appropriate for education software workflows.
+
+Your controls
+
+Institutes may request account updates, data exports, or account closure through the Acadex support and contact channels. Legal and billing retention obligations may still apply.
+
+=================== PAGE /terms ===================
+TITLE: Terms of Service — Acadex College Management Platform | Acadex
+META: Review the Acadex Terms of Service. Understand the rules, responsibilities, and policies for using the Acadex college management system and ERP software.
+
+Back to Home
+
+LEGAL
+
+Terms of Service
+
+These terms describe the general rules for using Acadex. They are a concise product-facing summary and can be supplemented by plan-specific commercial agreements where needed.
+
+Service scope
+
+Acadex provides subscription-based institute management tooling for operational workflows such as onboarding, student administration, timetable, communication, and reporting.
+
+Account responsibility
+
+Institutes are responsible for authorized use of administrator accounts, the accuracy of submitted organizational data, and the lawful handling of data entered into the platform.
+
+Plans and billing
+
+Paid features, onboarding scope, and support levels are governed by the plan selected by the institute or by a separately agreed enterprise quote where applicable.
+
+Acceptable use
+
+Users may not misuse the platform, interfere with service operation, attempt unauthorized access, or use Acadex in a way that violates applicable law or institutional policy obligations.
+
+=================== PAGE /auth/login ===================
+TITLE: Acadex — College Management System & ERP SaaS Platform
+META: Acadex is a modern, all-in-one college management system (CMS) and ERP SaaS. Manage student enrollment, timetables, exams, attendance, faculty, and subscriptions in one powerful platform built for Indian colleges and universities.
+
+Back to Home
+College Login
+
+Sign in to manage your college's subscription
+
+College Email
+Password
+Forgot password?
+Sign In
+Or continue with
+Continue with Google
+
+Is your college new to Acadex? Register College
+
+--- FORM FIELDS ---
+INPUT name= type=email placeholder="you@college.edu" label="College Email"
+INPUT name= type=password placeholder="Enter your password" label="Password"
+
+=================== PAGE /auth/signup ===================
+TITLE: Acadex — College Management System & ERP SaaS Platform
+META: Acadex is a modern, all-in-one college management system (CMS) and ERP SaaS. Manage student enrollment, timetables, exams, attendance, faculty, and subscriptions in one powerful platform built for Indian colleges and universities.
+
+Back to Home
+Register Your College
+
+Create an administrator account to manage your college's subscription
+
+College Name
+GST / PAN Number
+
+This authorized document is required for verification purposes.
+
+Admin Full Name
+Admin Email
+Password
+Confirm Password
+Create Account
+
+By signing up, you agree to our Terms of Service and Privacy Policy
+
+Or continue with
+Continue with Google
+
+Already have a college account? College Login
+
+--- FORM FIELDS ---
+INPUT name= type=text placeholder="e.g. City College of Commerce" label="College Name"
+INPUT name= type=text placeholder="e.g. 29ABCDE1234F2Z5" label="GST / PAN Number"
+INPUT name= type=text placeholder="John Doe" label="Admin Full Name"
+INPUT name= type=email placeholder="you@college.edu" label="Admin Email"
+INPUT name= type=password placeholder="Create a strong password" label="Password"
+INPUT name= type=password placeholder="Confirm your password" label="Confirm Password"

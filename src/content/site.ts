@@ -141,9 +141,8 @@ export const contact = {
   label: "Get in touch",
   title: "Contact our team",
   intro: "Have questions about platform integration? Our administration team is ready to help your institution succeed.",
-  // CHECK: placeholder address. The live site shows a leftover ("support@mangosubscription.com").
-  // Replace with the real Acadex support/sales inbox before launch.
-  email: "hello@acadex.ereefian.com",
+  // Support inbox confirmed by the client (2026-11-11).
+  email: "support@mangosubscription.com",
   emailSubject: "Acadex enquiry",
   emailCta: "Email us",
   copyCta: "Copy email",

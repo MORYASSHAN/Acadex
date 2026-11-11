@@ -34,9 +34,9 @@ export default function Contact() {
         data-reveal
         data-delay="120"
         href={mailto}
-        className="group mt-[6vh] block w-fit max-w-full break-all"
+        className="group mt-[6vh] block w-fit max-w-full"
       >
-        <span className="display accent block text-[clamp(2rem,6.4vw,6rem)] leading-[0.95]">{contact.email}</span>
+        <span className="display accent block whitespace-nowrap text-[clamp(1.25rem,5.8vw,5.2rem)] normal-case leading-[1]">{contact.email}</span>
         <span className="mt-2 block h-[3px] origin-left scale-x-[0.25] bg-[var(--ac)] transition-transform duration-700 ease-[var(--ease-out-quint)] group-hover:scale-x-100" />
       </a>
 
